@@ -73,7 +73,5 @@ Student @ GCT Coimbatore
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/JaidevB?theme=dark&font=Cabin)](https://leetcode.com/JaidevB)
 
-![JaidevB's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaidevb&theme=dark&show_icons=true&&hide=issues,contribs)
-
 
 
