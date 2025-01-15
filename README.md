@@ -4,16 +4,16 @@ Student @ GCT Coimbatore
 
 <img src="https://media.giphy.com/media/xoicctrOv5aGw6mCZi/giphy.gif" alt="Learn to Code" align="right" width="370" height="250" />
 
-- 🌱 I’m currently learning Data Structures and Algorithms (DSA) with C++.
-- 👩‍🎓 I’m a first-year engineering student passionate about technology.
-- 👯 I’m looking to collaborate on AI and Data Science projects.
-- 🤔 My dream is to secure placements in MAANG companies.
-- 💬 Feel free to ask me about tech and coding doubts.
+- 🌱 I’m currently learning Data Structures and Algorithms (DSA) in both C++ and Python.
+- 👩‍🎓 I’m a first-year engineering student with a strong passion for Artificial Intelligence (AI), Machine Learning (ML), and Data Science (DS).
+- 👯 I’m eager to collaborate on Data Science, Machine Learning, and Deep Learning projects.
+- 🤔 My professional aspiration is to secure a position in top-tier technology companies by leveraging my expertise in AI and Data Science.
+- 💬 Open to discussions on tech innovations, problem-solving, and collaborative coding.
 - 📫 How to reach me:
   <br />
   [Twitter](https://x.com/Jaidevxb) | [LinkedIn](https://www.linkedin.com/in/jaidevb/)
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I know German.
+- ⚡ Fun fact: I know a little German.
 
 ### 🎓 Education
 
@@ -28,37 +28,39 @@ Student @ GCT Coimbatore
 ### 💡 Skills
 
 - **Languages**:
-  - **Python**: Experienced in writing efficient and clean code for various applications.
-  - **C**: Basic knowledge of C programming.
-  - **C++**: Proficient and currently using it to learn Data Structures and Algorithms (DSA).
-  - **HTML**: Intermediate knowledge in creating well-structured and semantic HTML documents.
+  - **Python**: Proficient in writing clean and efficient code.
+  - **C**: Strong understanding of C programming, as it was part of my college coursework.
+  - **C++**: Proficient in using it for Data Structures and Algorithms (DSA).
   - **SQL**: Basic understanding of MySQL for database management and querying.
 
 - **Tools**:
   - **Visual Studio Code**: Versatile editor for coding in multiple languages.
-  - **PyCharm**: Specialized IDE for Python development.
+  - **Spyder**: Specialized IDE for Python development.
+  - **Jupyter Notebook**: Currently using it for Python programming and starting to learn Data Science with it.
+  - **Anaconda**: Comprehensive platform for managing Python packages and environments.
   - **Git**: Version control tool for tracking changes in code.
-  - **Adobe Photoshop**: Used for designing and editing images.
-  - **Adobe Premiere Pro**: Used for video editing and production.
-  - **ChatGPT**: Proficient in generative AI and prompt engineering.
 
 ### 🌟 Personal Interests
 
-- **Tech Enthusiast**: Passionate about emerging technologies and industry trends.
-- **Networking**: Interested in connecting with new tech people and collaborating on projects.
-- **Computer Hardware and PC Building**: Knowledgeable about a wide range of computer hardware components and experienced in building custom PCs.
+- **Tech Enthusiast**: Passionate about AI, ML, and Deep Learning, and keen to explore innovations in the tech industry.
+- **Networking**: Interested in connecting with like-minded tech professionals and collaborating on impactful projects.
+- **Coding Challenges**: Enjoy solving complex problems and improving algorithmic thinking.
 
 ### 🧠 Soft Skills
 
-- **Teamwork**: Experience working in teams through group projects and collaborative assignments.
-- **Problem-Solving**: Intermediate analytical skills developed through solving coding problems.
-- **Communication**: Effective communicator with experience presenting technical information to diverse audiences.
+- **Teamwork**: Adept at collaborating in teams to achieve shared objectives.
+- **Problem-Solving**: Strong analytical skills honed through consistent practice in DSA.
+- **Communication**: Effective communicator, capable of articulating technical concepts clearly.
 
 ### 🎯 Goals
 
-- **Short-Term**: Complete a specific number of coding challenges on LeetCode.
-- **Long-Term**: Secure a position at a MAANG company.
+- **Short-Term**: Master foundational algorithms in DSA.
+- **Long-Term**: Build expertise in AI and ML to secure a role in a leading technology company.
 
+### 📜 Certifications
+
+- [HackerRank Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/657809303130)
+- [Google AI Essentials Certificate](https://www.coursera.org/account/accomplishments/verify/2Z85LLC0GGOO)
 
 ### 📬 Contact Me
 
@@ -67,11 +69,8 @@ Student @ GCT Coimbatore
 
 ### 📝 Note
 
-- As a first-year student, I’ve just started solving problems and am actively learning DSA. My LeetCode stats are in the early stages of development.
+- As a first-year engineering student, I am actively learning and growing in the fields of AI and Data Science. My journey is focused on building a solid foundation to excel in my aspirations.
 
 <br /><br />
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/JaidevB?theme=dark&font=Cabin)](https://leetcode.com/JaidevB)
-
-
-
