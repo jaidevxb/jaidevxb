@@ -59,7 +59,7 @@ Student @ GCT Coimbatore
 
 ### 📜 Certifications
 
-- [HackerRank Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/657809303130)
+- [HackerRank Problem Solving (Intermediate) Certificate](https://www.hackerrank.com/certificates/iframe/657809303130)
 - [Google AI Essentials Certificate](https://www.coursera.org/account/accomplishments/verify/2Z85LLC0GGOO)
 
 ### 📬 Contact Me
