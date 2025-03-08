@@ -4,7 +4,7 @@ Student @ GCT Coimbatore
 
 <img src="https://media.giphy.com/media/xoicctrOv5aGw6mCZi/giphy.gif" alt="Learn to Code" align="right" width="370" height="250" />
 
-- 🌱 I’m currently learning Data Structures and Algorithms (DSA) in both C++ and Python.
+- 🌱 I’m currently learning Data Structures and Algorithms (DSA) in C++.
 - 👩‍🎓 I’m a first-year engineering student with a strong passion for Artificial Intelligence (AI), Machine Learning (ML), and Data Science (DS).
 - 👯 I’m eager to collaborate on Data Science, Machine Learning, and Deep Learning projects.
 - 🤔 My professional aspiration is to secure a position in top-tier technology companies by leveraging my expertise in AI and Data Science.
