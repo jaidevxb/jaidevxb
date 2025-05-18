@@ -1,76 +1,85 @@
-## Hi there 👋 It's me Jaidev
-
-Student @ GCT Coimbatore
+## 👋 Hi, I’m Jaidev  
+**Aspiring Data Scientist | Student @ GCT Coimbatore**
 
 <img src="https://media.giphy.com/media/xoicctrOv5aGw6mCZi/giphy.gif" alt="Learn to Code" align="right" width="370" height="250" />
 
-- 🌱 I’m currently learning Data Structures and Algorithms (DSA) in C++.
-- 👩‍🎓 I’m a first-year engineering student with a strong passion for Artificial Intelligence (AI), Machine Learning (ML), and Data Science (DS).
-- 👯 I’m eager to collaborate on Data Science, Machine Learning, and Deep Learning projects.
-- 🤔 My professional aspiration is to secure a position in top-tier technology companies by leveraging my expertise in AI and Data Science.
-- 💬 Open to discussions on tech innovations, problem-solving, and collaborative coding.
-- 📫 How to reach me:
-  <br />
-  [Twitter](https://x.com/Jaidevxb) | [LinkedIn](https://www.linkedin.com/in/jaidevb/)
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: I know a little German.
+---
 
-### 🎓 Education
+### 🌱 About Me  
+- 🧠 First-year Engineering Student passionate about **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Data Science (DS)**.  
+- 🧩 Currently learning the **fundamentals of Data Science (DS)** and **Machine Learning (ML)** to build a strong foundation, while also mastering **Data Structures and Algorithms (DSA)** in **C++** to enhance problem-solving skills.
+- 🤝 Open to collaborating on **AI/ML/Data Science projects** and eager to build impactful solutions.  
+- 🚀 Goal: Join a **top-tier tech company** through strong foundations in AI and Data Science.
 
-- **Bachelor of Engineering (B.E.)** - [Government College of Technology (GCT), Coimbatore](https://www.gct.ac.in) (September 2024 – Present)
+---
 
-- **Higher Secondary Certificate (HSC)** - [SBOA Matric and Higher Secondary School, Coimbatore](https://sboacbe.com/) (June 2022 – April 2024)
-  - **Percentage**: 93.5%
+### 📌 Quick Links  
+[Twitter](https://x.com/Jaidevxb) • [LinkedIn](https://www.linkedin.com/in/jaidevb/) • [LeetCode](https://leetcode.com/JaidevB/) • [Email](mailto:jaidevcoder@gmail.com)
 
-- **Secondary School Leaving Certificate (SSLC)** - [SBOA Matric and Higher Secondary School, Coimbatore](https://sboacbe.com/) (June 2021 – April 2022)
-  - **Percentage**: 92%
+---
 
-### 💡 Skills
+### 🎓 Education  
 
-- **Languages**:
-  - **Python**: Proficient in writing clean and efficient code.
-  - **C**: Strong understanding of C programming, as it was part of my college coursework.
-  - **C++**: Proficient in using it for Data Structures and Algorithms (DSA).
-  - **SQL**: Basic understanding of MySQL for database management and querying.
+**Bachelor of Engineering (B.E.)** – *Government College of Technology, Coimbatore*  
+`Sep 2024 – Present` | **GPA**: 8.74
 
-- **Tools**:
-  - **Visual Studio Code**: Versatile editor for coding in multiple languages.
-  - **Spyder**: Specialized IDE for Python development.
-  - **Jupyter Notebook**: Currently using it for Python programming and starting to learn Data Science with it.
-  - **Anaconda**: Comprehensive platform for managing Python packages and environments.
-  - **Git**: Version control tool for tracking changes in code.
+**Higher Secondary (HSC)** – *SBOA Matric. & Hr. Sec. School, Coimbatore*  
+`2022 – 2024` | **Percentage**: 93.5%
 
-### 🌟 Personal Interests
+**Secondary (SSLC)** – *SBOA Matric. & Hr. Sec. School, Coimbatore*  
+`2020 – 2022` | **Percentage**: 92%
 
-- **Tech Enthusiast**: Passionate about AI, ML, and Deep Learning, and keen to explore innovations in the tech industry.
-- **Networking**: Interested in connecting with like-minded tech professionals and collaborating on impactful projects.
-- **Coding Challenges**: Enjoy solving complex problems and improving algorithmic thinking.
+---
 
-### 🧠 Soft Skills
+### 💻 Skills  
 
-- **Teamwork**: Adept at collaborating in teams to achieve shared objectives.
-- **Problem-Solving**: Strong analytical skills honed through consistent practice in DSA.
-- **Communication**: Effective communicator, capable of articulating technical concepts clearly.
+#### 🗣 Languages  
+- **Python** – Writing clean, efficient, and readable code  
+- **C / C++** – Strong command of fundamentals & DSA  
+- **SQL** – Basic querying using MySQL  
+- **HTML / CSS / JavaScript** – Basic understanding for UI development
 
-### 🎯 Goals
+#### 🛠 Tools & Technologies  
+- **Jupyter Notebook**, **Spyder**, **VS Code** – Development environments  
+- **Git & GitHub** – Version control & collaboration  
+- **Anaconda** – Python environment & package manager  
+- **Docker** – Basics of containerization  
+- **AWS** – Introductory knowledge of cloud services
 
-- **Short-Term**: Master foundational algorithms in DSA.
-- **Long-Term**: Build expertise in AI and ML to secure a role in a leading technology company.
+---
 
-### 📜 Certifications
+### 🌟 Interests  
+- 🚀 Tech Innovations in AI & ML  
+- 🤝 Networking & collaboration with like-minded learners  
+- 🧠 Solving DSA and algorithmic challenges
 
-- [HackerRank Problem Solving (Intermediate) Certificate](https://www.hackerrank.com/certificates/iframe/657809303130)
-- [Google AI Essentials Certificate](https://www.coursera.org/account/accomplishments/verify/2Z85LLC0GGOO)
+---
 
-### 📬 Contact Me
+### 🧠 Soft Skills  
+- 🤝 Team Collaboration  
+- 🔍 Analytical Thinking  
+- 🗣 Clear Technical Communication
 
-- **Email**: [jaidevcoder@gmail.com](mailto:jaidevcoder@gmail.com)
-- **Phone**: +91-9488892926
+---
 
-### 📝 Note
+### 🎯 Goals  
+- **Short-Term**: Master core DSA concepts and complete foundational ML projects  
+- **Long-Term**: Build and deploy intelligent systems, work in a leading global tech firm
 
-- As a first-year engineering student, I am actively learning and growing in the fields of AI and Data Science. My journey is focused on building a solid foundation to excel in my aspirations.
+---
 
-<br /><br />
+### 📜 Certifications  
+- 🏅 [HackerRank Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/iframe/657809303130)  
+- 🏅 [Google AI Essentials Certificate](https://www.coursera.org/account/accomplishments/verify/2Z85LLC0GGOO)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JaidevB?theme=dark&font=Cabin)](https://leetcode.com/JaidevB)
+---
+
+### 📬 Contact Me  
+- 📧 **Email**: [jaidevcoder@gmail.com](mailto:jaidevcoder@gmail.com)  
+- 📱 **Phone**: +91-9488892926  
+
+---
+
+### 📈 LeetCode Stats  
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JaidevB?theme=dark&font=Cabin)](https://leetcode.com/JaidevB/)
