@@ -52,7 +52,7 @@
 - 🚀 Tech Innovations in AI & ML  
 - 🤝 Networking & collaboration with like-minded learners  
 - 🧠 Solving DSA and algorithmic challenges
-
+- 🌱 Deeply curious and driven by a passion for continuous learning and exploration
 ---
 
 ### 🧠 Soft Skills  
