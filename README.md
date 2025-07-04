@@ -7,7 +7,7 @@
 
 ### 🌱 About Me  
 - 🧠 First-year Engineering Student passionate about **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Data Science (DS)**.  
-- 🧩 Currently learning the **fundamentals of Data Science (DS)** and **Machine Learning (ML)** to build a strong foundation, while also mastering **Data Structures and Algorithms (DSA)** in **C++** to enhance problem-solving skills.
+- 🧩 Currently learning the **fundamentals of Data Science (DS)** and **Machine Learning (ML)** to build a strong foundation, while also mastering **Data Structures and Algorithms (DSA)** to enhance problem-solving skills.
 - 🤝 Open to collaborating on **AI/ML/Data Science projects** and eager to build impactful solutions.  
 - 🚀 Goal: Join a **top-tier tech company** through strong foundations in AI and Data Science.
 
